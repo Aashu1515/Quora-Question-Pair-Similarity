@@ -24,8 +24,8 @@ Quora values canonical questions because they provide a better experience to act
 
 ## Code Files :
 Download these files:
-- 1. EDA.ipynb
-- 2. Advance Text Features and word cloud.ipynb
-- 3. Tf -Idf.ipynb
-- 4. Models(Logisitic Regression and SVM
+-  EDA.ipynb
+-  Advance Text Features and word cloud.ipynb
+-  Tf -Idf.ipynb
+-  Models(Logisitic Regression and SVM
     
