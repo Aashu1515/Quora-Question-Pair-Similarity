@@ -13,11 +13,11 @@ Quora values canonical questions because they provide a better experience to act
   3. NLP
 
 ## Installation 
-  Install numpy: pip install numpy
-  Install pandas: pip install pandas
-  Install scikit learn : pip install scikit-learn
-  Install seaborn : pip install seaborn
-  Install wordcloud : pip install wordcloud
+  - Install numpy: pip install numpy
+  - Install pandas: pip install pandas
+  - Install scikit learn : pip install scikit-learn
+  - Install seaborn : pip install seaborn
+  - Install wordcloud : pip install wordcloud
   
 ## Importing Dataset:
   Download the dataset from : https://www.kaggle.com/datasets/quora/question-pairs-dataset 
